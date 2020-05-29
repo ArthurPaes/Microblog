@@ -1,0 +1,16 @@
+.title{
+    text-align: center;
+}
+
+body {
+    background-image: url();
+    background-position: center center;
+    background-size: 100% 100%;
+}
+
+.formulario, .loading, .info{
+    margin: 0 auto;
+    width: 50%;
+    text-align: center;
+
+}
