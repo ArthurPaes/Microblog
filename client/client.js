@@ -8,7 +8,7 @@ const API_URL = 'http://localhost:5000/testing';      // variable to hold the se
 
 
 
-loadingELement.style.display = ''; //hiding the loading gif(once the page loads)
+loadingELement.style.display = 'none'; //hiding the loading gif(once the page loads)
 
 listAllInfo()                   //listing all the objects(defined way below)
 
