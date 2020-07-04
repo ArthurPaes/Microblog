@@ -11,7 +11,7 @@ Simple Project that mimics a blog</br>
 <a href="https://www.javascript.com/">JavaScript</a> <br/>
 <a href="">HTML5</a> <br/>
 <a href="">CSS</a> <br/>
-<a href="hhttps://www.mongodb.com/">mongodb</a>
+<a href="https://www.mongodb.com/">mongodb</a>
 
 ## Installation
 
