@@ -32,7 +32,8 @@ $ cd Microblog
 $ yarn 
 $ npm install
 ```
-
+#### PS
+Mongodb and chrome necessary
 
 
 
