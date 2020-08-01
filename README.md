@@ -32,6 +32,12 @@ $ cd Microblog
 $ yarn 
 $ npm install
 ```
+
+> Start the project:
+```shell
+$ yarn start
+```
+
 #### PS
 Mongodb and chrome necessary
 
